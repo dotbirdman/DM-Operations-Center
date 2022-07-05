@@ -1,0 +1,5 @@
+name: assets
+slug: assets
+order: 99
+include-in: files
+copy-files: true

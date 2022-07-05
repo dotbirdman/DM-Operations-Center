@@ -5,6 +5,6 @@ description: MrFarland's DM Operations Center
 author: Donald Farland (donfarland.com)
 code: dm-operations-center
 cover: assets/img/dm-operations-center.png
-version: 0.5.0
+version: 0.7.0
 autoIncrementVersion: false
 create-roll-tables: true

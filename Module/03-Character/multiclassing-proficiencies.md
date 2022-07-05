@@ -1,5 +1,5 @@
 ---
-name: Multiclassing Proficiencies 
+name: Multiclassing Proficiencies
 slug: multiclassing-proficiencies
 parent: multiclassing
 ---
@@ -9,7 +9,7 @@ parent: multiclassing
 
 | | |
 | :-------- | :---------------------------------------------------------------------------------------------------------------------- |
-| Artificer | Light & Medium [Armor](armor), [Shields](/item/shield), [Thieves' Tools](/item/thieves-tools), and [Tinker's Tools](/item/tinkers-tools)  |
+| Artificer | Light & Medium [Armor](armor), [Shields](/item/shield), [Thieves' Tools](/item/thieves-tools), and [Tinker's Tools](/item/tinker-s-tools)  |
 | Barbarian | [Shields](/item/shield), Simple & Martial [Weapons](weapons)                                                            |
 | Bard      | Light [Armor](armor), Any 1 Skill, & 1 [Musical Instrument](musical-instruments)                                        |
 | Cleric    | Light & Medium [Armor](armor) and [Shields](/item/shield)                                                               |

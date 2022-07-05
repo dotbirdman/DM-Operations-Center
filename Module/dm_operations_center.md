@@ -25,7 +25,7 @@ order: 00
 </div>
 <hr/>
 
-*v0.5.0 Beta - [GitHub Project](https://github.com/MrFarland/DM-Operations-Center)* {.text-right .small-text}
+*v0.7.0 Beta - [GitHub Project](https://github.com/MrFarland/DM-Operations-Center)* {.text-right .small-text}
 
 <div class="footer">
     <div class="fan-content-policy">

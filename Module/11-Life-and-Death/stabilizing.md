@@ -10,7 +10,7 @@ A creature can be stabilized to stop the process of rolling [death saving throws
 
 [DC](difficulty-class) 10 [Wisdom](wisdom) ([Medicine](medicine)) {.text-center}
 
-***[Advantage](advantage-and-disadvantage) if using a [Healer's Kit](/item/healers-kit)*** {.text-center .small-text}
+***[Advantage](advantage-and-disadvantage) if using a [Healer's Kit](/item/healer-s-kit)*** {.text-center .small-text}
 
 A stable creature regains 1 [hit point](hit-points) after [1d4](/roll/1d4) hours.
 
